@@ -22,12 +22,6 @@
 
 <h3>CRUD Laravel API 🍦🐘</h3>
 
-<figure>
-  <img src= "images/screenshot.png" alt="lacrud Demo">
-  <br/>
-  <figcaption>lacrud screenshot</figcaption>
-</figure>
-
 </div>
 
 ## What is this
